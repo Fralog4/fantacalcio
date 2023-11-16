@@ -1,5 +1,3 @@
-#listone idea matteo prendi da web il listone o excel ed estrae random per reparto
-
 import random
 import pandas as pd
 def estrattore(listone):
